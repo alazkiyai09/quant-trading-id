@@ -1,0 +1,77 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/*.log
+*.log
+
+# Artifacts & Models
+artifacts/*.pkl
+artifacts/*.h5
+*.pkl
+*.h5
+
+# Data
+data/*.csv
+data/*.json
+!data/.gitkeep
+
+# Reports
+reports/*.csv
+reports/*.html
+reports/*.pdf
+!reports/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+temp/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
