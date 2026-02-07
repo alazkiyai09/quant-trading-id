@@ -17,7 +17,7 @@ class DatabaseConfig:
     HOST = os.getenv('DB_HOST', 'localhost')
     NAME = os.getenv('DB_NAME', 'Stock_Data')
     USER = os.getenv('DB_USER', 'postgres')
-    PASSWORD = os.getenv('DB_PASSWORD', 'admin')
+    PASSWORD = os.getenv('DB_PASSWORD', '')  # SECURITY: No default password - must be set via env
     PORT = int(os.getenv('DB_PORT', '5432'))
 
     @classmethod
