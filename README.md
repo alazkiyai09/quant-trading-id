@@ -250,6 +250,8 @@ pytest tests/test_database.py -v
 
 ## 📈 Performance Metrics
 
+**Note:** The following are backtest results on historical data. Past performance does not guarantee future results.
+
 ### ML Model Performance (ADMR Example)
 - **LSTM MAE**: 0.0142
 - **CNN-LSTM MAE**: 0.0156
