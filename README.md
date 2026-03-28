@@ -1,5 +1,7 @@
 > ⚠️ **ARCHIVED** — This work has been consolidated into:
-> - [idx-trading-system](https://github.com/alazkiyai09/idx-trading-system) — Comprehensive IDX trading platform\n\n# Indonesian Stock Trading System - Refactored
+> - [idx-trading-system](https://github.com/alazkiyai09/idx-trading-system) — Comprehensive IDX trading platform
+
+# Indonesian Stock Trading System - Refactored
 
 A sophisticated quantitative trading system for Indonesian stocks (IDX) combining machine learning prediction with technical analysis strategies.
 
